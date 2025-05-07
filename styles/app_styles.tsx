@@ -16,7 +16,7 @@ const AppStyle = StyleSheet.create({
 
     box: {
         borderRadius: 5,
-        borderWidth: 1,
+        borderWidth: 2,
         borderColor: 'black',
         padding: 10
     },
