@@ -8,10 +8,11 @@ const AppStyle = StyleSheet.create({
     },
 
     text_heading: {
-        fontSize: 25,
+        fontSize: 30,
+        fontWeight: 800,
         textAlign: 'center',
-        marginBottom: 20,
-        marginTop: 20
+        marginBottom: 10,
+        marginTop: 10
     },
 
     box: {
